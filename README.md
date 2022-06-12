@@ -1,8 +1,14 @@
 - 👋 Hi, I’m <a href="" target="_blank">CeeJay-VIII</a>
 - 👀 I’m interested in knowing more about internet world and improve my knowledge
-- 🌱 I’m currently learning Applications Development in @DUT
+- 🌱 I’m currently learning Applications Development @DUT
 - 💞️ I’m looking to collaborate on Web development(html,css,javascript), Windows applications(C#) and ASP.NET applications MVC
-- 📫 How to reach me ...
+- 📫 How to reach me
+<ul>
+  <li><a href="https://www.youtube.com/channel/UCGSXF5lIWfyLNx3KQd-32xw" target="_blank">YouTube</a></li>
+  <li><a href="https://wa.link/msob2d" target="_blank">Whatsapp</a></li>
+  <li><a href="https://t.me/ceejay_viii" target="_blank">Telegram</a></li>
+  <li><a href="http://ceejay.c1.biz/" target="_blank">Website</a></li>
+</ul>
 
 <!---
 CeeJay-VIII/CeeJay-VIII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
