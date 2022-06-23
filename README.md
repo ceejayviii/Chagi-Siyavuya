@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <a href="" target="_blank">CeeJay-VIII</a>
-- 👀 I’m persuing my dreams of becoming a web developer and expand my knowledge about internet world and improve my skills.
+- 👀 I’m pursuing my dreams of becoming a web developer and expanding my knowledge about internet world and improve my skills.
 - 🌱 I’m currently @DUT doing my Diploma in ICT: Applications Development.
 - 💞️ I’m looking to collaborate on Web development(html,css,javascript), Windows applications(C#) and ASP.NET applications MVC projects.
 - 📫 How to reach me
