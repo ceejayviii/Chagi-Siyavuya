@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <a href="" target="_blank">CeeJay-VIII</a>
-- 👀 I’m interested in knowing more about internet world and improve my knowledge
-- 🌱 I’m currently learning Applications Development @DUT
-- 💞️ I’m looking to collaborate on Web development(html,css,javascript), Windows applications(C#) and ASP.NET applications MVC
+- 👀 I’m persuing my dreams of becoming a web developer and expand my knowledge about internet world and improve my skills.
+- 🌱 I’m currently @DUT doing my Diploma in ICT: Applications Development.
+- 💞️ I’m looking to collaborate on Web development(html,css,javascript), Windows applications(C#) and ASP.NET applications MVC projects.
 - 📫 How to reach me
 <ul>
   <li><a href="https://www.youtube.com/channel/UCGSXF5lIWfyLNx3KQd-32xw" target="_blank">YouTube</a></li>
