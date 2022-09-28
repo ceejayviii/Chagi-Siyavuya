@@ -1,13 +1,13 @@
-- 👋 Hi, I’m <a href="" target="_blank">CeeJay-VIII</a>
-- 👀 I’m pursuing my dreams of becoming a web developer and expanding my knowledge about internet world and improve my skills.
-- 🌱 I’m currently @DUT doing my Diploma in ICT: Applications Development.
-- 💞️ I’m looking to collaborate on Web development(html,css,javascript), Windows applications(C#) and ASP.NET applications MVC projects.
+- 👋 Hi, I’m <a href="https://www.youtube.com/channel/UCGSXF5lIWfyLNx3KQd-32xw" target="_blank">CeeJay-VIII</a>
+- 🌱 I am currently doing my Diploma in ICT: Applications Development at Durban University of Technology (DUT).
+- 👀 Om the other hand I am learning and have learnt other web development languages and technologies like HTML, CSS, JavaScript, PHP, MySQL and Java for mobile develeopment. so far, the progress is tremendous.
+- 💞️ I’m looking to collaborate with other developers on web development to increase and expand my knowledge.
 - 📫 How to reach me
 <ul>
   <li><a href="https://www.youtube.com/channel/UCGSXF5lIWfyLNx3KQd-32xw" target="_blank">YouTube</a></li>
   <li><a href="https://wa.link/msob2d" target="_blank">Whatsapp</a></li>
   <li><a href="https://t.me/ceejay_viii" target="_blank">Telegram</a></li>
-  <li><a href="https://ceejayviii.netlify.app/" target="_blank">Website project</a></li>
+  <li><a href="#" target="_blank">Website</a></li>
 </ul>
 
 <!---
