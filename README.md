@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href="https://www.youtube.com/channel/UCGSXF5lIWfyLNx3KQd-32xw" target="_blank">CeeJay-VIII</a>
 - 🌱 I am currently doing my Diploma in ICT: Applications Development at Durban University of Technology (DUT).
-- 👀 Om the other hand I am learning and have learnt other web development languages and technologies like HTML, CSS, JavaScript, PHP, MySQL and Java for mobile develeopment. so far, the progress is tremendous.
+- 👀 On the other hand I am learning and have learnt other web development languages and technologies like HTML, CSS, JavaScript, PHP, MySQL and Java for mobile develeopment. so far, the progress is tremendous.
 - 💞️ I’m looking to collaborate with other developers on web development to increase and expand my knowledge.
 - 📫 How to reach me
 <ul>
