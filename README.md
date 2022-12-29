@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href="https://www.youtube.com/channel/UCGSXF5lIWfyLNx3KQd-32xw" target="_blank">CeeJay-VIII</a>
+- 👋 Hi, I’m <a href="https://www.youtube.com/channel/UCGSXF5lIWfyLNx3KQd-32xw" target="_blank">CeeJay Chagi</a>
 - 🌱 I am currently doing my Diploma in ICT: Applications Development at Durban University of Technology (DUT).
 - ✨ To add to what I said to my BIO I also know the following Technolgies and Frameworks for Web Development : 
 - * HTML
