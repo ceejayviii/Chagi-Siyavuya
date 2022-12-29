@@ -1,13 +1,17 @@
 - 👋 Hi, I’m <a href="https://www.youtube.com/channel/UCGSXF5lIWfyLNx3KQd-32xw" target="_blank">CeeJay-VIII</a>
 - 🌱 I am currently doing my Diploma in ICT: Applications Development at Durban University of Technology (DUT).
-- 👀 On the other hand I am learning and have learnt other web development languages and technologies like HTML, CSS, JavaScript, PHP, MySQL and Java for mobile develeopment. so far, the progress is tremendous.
+- ✨ To add to what I said to my BIO I also know the following Technolgies and Frameworks for Web Development : 
+- * HTML
+- * JavaScript / JQuery
+- * CSS
+- * PHP
 - 💞️ I’m looking to collaborate with other developers on web development to increase and expand my knowledge.
-- 📫 How to reach me
+- 📫 How to reach and Follow me :
 <ul>
   <li><a href="https://www.youtube.com/channel/UCGSXF5lIWfyLNx3KQd-32xw" target="_blank">YouTube</a></li>
   <li><a href="https://wa.link/msob2d" target="_blank">Whatsapp</a></li>
   <li><a href="https://t.me/ceejay_viii" target="_blank">Telegram</a></li>
-  <li><a href="#" target="_blank">Website</a></li>
+  <li><a href="https://ceejayviii.netlify.app/" target="_blank">Website</a></li>
 </ul>
 
 <!---
