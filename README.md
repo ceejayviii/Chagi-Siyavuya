@@ -5,6 +5,7 @@
 - * JavaScript / JQuery
 - * CSS
 - * PHP
+- * mySQL
 - * Azure DevOps
 - 💞️ I’m looking to collaborate with other developers on web development to increase and expand my knowledge.
 - 📫 How to reach and Follow me :
