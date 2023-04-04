@@ -4,13 +4,17 @@
 💞️ I’m looking to collaborate with other developers on web, software development to increase and expand my knowledge. </br>
 ✨ To add to what I said to my BIO I also know the following languages, Technologies and Frameworks for Web Development and ofcourse with `C#` as my main programming language : 
 
+### Front-End
 * `HTML`, `CHTML`
 * `JavaScript` , `JQuery`
-* `CSS`
+* `CSS`,`Bootstrapp`
+### Back-End/Server side
+* `C#`
 * `PHP`
 * `mySQL`
-* `Azure DevOps`
 * `NDG Linux Unhatched` , `Linux Ubuntu`
+### Cloud computing
+* `Azure DevOps`
 
 ```js
 if(Programmer)
