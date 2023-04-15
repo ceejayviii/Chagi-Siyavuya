@@ -1,8 +1,8 @@
 # README.md
-👋 Hi, I’m [Siyavuya Chagi](https://www.youtube.com/CeeJayVIII) </br>
-🌱 I am currently doing my Diploma in ICT: Applications Development at Durban University of Technology (DUT). </br>
-💞️ I’m looking to collaborate with other developers on web, software development to increase and expand my knowledge. </br>
-✨ To add to what I said to my BIO I also know the following languages, Technologies and Frameworks for Web Development and ofcourse with `C#` as my main programming language : 
+Greetings! I am Siyavuya Chagi, a seasoned software developer hailing from the beautiful town of Bizana in the Eastern Cape. My primary focus lies in C#, but I am also proficient in a diverse range of programming languages and technologies, including HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, Node.Js, Linux NDG, and Microsoft Azure.
+I have a never-ending passion for learning and constantly seek out new knowledge to stay ahead of the curve. My unrelenting dedication to perfection and tireless work ethic make me a valuable addition to any team.
+
+When I am not coding, I love nothing more than curling up with a good book or heading out to explore the great outdoors.
 
 ### Front-End
 * `HTML`, `CHTML`
@@ -11,8 +11,10 @@
 ### Back-End/Server side
 * `C#`
 * `PHP`
-* `mySQL`
+* `Node.JS`
 * `NDG Linux Unhatched` , `Linux Ubuntu`
+### Database
+* `MySQL (LINQ)`
 ### Cloud computing
 * `Azure DevOps`
 
