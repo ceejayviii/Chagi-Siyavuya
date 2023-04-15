@@ -5,11 +5,11 @@ I have a never-ending passion for learning and constantly seek out new knowledge
 When I am not coding, I love nothing more than curling up with a good book or heading out to explore the great outdoors.
 
 ### Front-End
-* `HTML`, `CHTML`
+* `HTML`, `Razor/CHTML`
 * `JavaScript` , `JQuery`
 * `CSS`,`Bootstrapp`
 ### Back-End/Server side
-* `C#`
+* `C# (ASP.NET)`
 * `PHP`
 * `Node.JS`
 * `NDG Linux Unhatched` , `Linux Ubuntu`
