@@ -14,7 +14,7 @@ When I am not coding, I love nothing more than curling up with a good book or he
 * `Node.JS`
 * `NDG Linux Unhatched` , `Linux Ubuntu`
 ### Database
-* `MySQL (LINQ)`
+* `MySQL`
 ### Cloud computing
 * `Microsoft Azure`
 
