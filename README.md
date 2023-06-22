@@ -16,7 +16,7 @@ When I am not coding, I love nothing more than curling up with a good book or he
 ### Database
 * `MySQL (LINQ)`
 ### Cloud computing
-* `Azure DevOps`
+* `Microsoft Azure`
 
 ```js
 if(Programmer)
