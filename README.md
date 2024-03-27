@@ -6,11 +6,11 @@ When I am not coding, I love nothing more than curling up with a good book or he
 
 ### Front-End
 * `HTML`, `Razor/CHTML`
-* `JavaScript` , `JQuery`
+* `JavaScript` , `JQuery`, `React.js`
 * `CSS`,`Bootstrapp`
 ### Back-End/Server side
 * `C# (ASP.NET)`
-* `PHP`
+* `React Native`
 * `Node.JS`
 * `NDG Linux Unhatched` , `Linux Ubuntu`
 ### Database
