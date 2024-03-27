@@ -28,7 +28,6 @@ if(Programmer)
 <ul>
   <li><a href="https://www.youtube.com/channel/UCGSXF5lIWfyLNx3KQd-32xw" target="_blank">YouTube</a></li>
   <li><a href="https://wa.link/msob2d" target="_blank">Whatsapp</a></li>
-  <li><a href="https://twitter.com/ceejay_viii" target="_blank">Twitter</a></li>
   <li><a href="https://www.instagram.com/ceejayviii/" target="_blank">Instagram</a></li>
 </ul>
 
