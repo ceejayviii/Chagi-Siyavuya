@@ -6,11 +6,10 @@ When I am not coding, I love nothing more than curling up with a good book or he
 
 ### Front-End
 * `HTML`, `Razor/CHTML`
-* `JavaScript` , `JQuery`, `React.js`
-* `CSS`,`Bootstrapp`
+* `JavaScript` , `JQuery`, `Vue Js`, `React Native`
+* `CSS`,`Bootstrap`
 ### Back-End/Server side
 * `C# (ASP.NET)`
-* `React Native`
 * `Node.JS`
 * `NDG Linux Unhatched` , `Linux Ubuntu`
 ### Database
@@ -18,7 +17,7 @@ When I am not coding, I love nothing more than curling up with a good book or he
 ### Cloud computing
 * `Microsoft Azure`
 
-```cs
+```js
 if(Programmer)
   while(Alive)
     DoCode();
