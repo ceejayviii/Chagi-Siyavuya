@@ -6,8 +6,8 @@ When I am not coding, I love nothing more than curling up with a good book or he
 
 ### Front-End
 * `HTML`, `Razor/CHTML`
-* `JavaScript` , `JQuery`, `Vue Js`, `React Native`
-* `CSS`,`Bootstrap`
+* `JavaScript`, `JQuery`, `Vue Js`, `React Native`
+* `CSS`, `Bootstrap`
 ### Back-End/Server side
 * `C# (ASP.NET)`
 * `Node.JS`
