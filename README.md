@@ -30,28 +30,33 @@ I'm a passionate software developer from South Africa, specializing in:
 
 
 
-Greetings! I am Siyavuya Chagi, a seasoned software developer hailing from the beautiful town of Bizana in the Eastern Cape. My primary focus lies in C#, but I am also proficient in a diverse range of programming languages and technologies, including HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, Node.Js, Linux NDG, and Microsoft Azure.
-I have a never-ending passion for learning and constantly seek out new knowledge to stay ahead of the curve. My unrelenting dedication to perfection and tireless work ethic make me a valuable addition to any team.
 
-When I am not coding, I love nothing more than curling up with a good book or heading out to explore the great outdoors.
-
-### Front-End
-* `HTML`, `Razor/CHTML`
-* `JavaScript`, `JQuery`, `Vue Js`, `React Native`
-* `CSS`, `Bootstrap`
-### Back-End/Server side
-* `C# (ASP.NET)`
-* `Node.JS`
-* `NDG Linux Unhatched` , `Linux Ubuntu`
-### Database
-* `MySQL`
-### Cloud computing
-* `Microsoft Azure`
-
-```js
-if(Programmer)
-  while(Alive)
+```cs
+if (Programmer) {
+  while (Alive) {
     DoCode();
+    Debug();
+
+    if (Tired()) {
+      DrinkCoffee();
+    } else {
+      TakeShortBreak();
+    }
+
+    // A switch to decide what the programmer Googles today
+    switch (TodayFocus()) {
+      case "error":
+        GoogleSolutions();
+        break;
+      case "new technology":
+        ResearchNewTech();
+        break;
+      default:
+        StackOverflow();
+        break;
+    }
+  }
+}
 ```
 
 <!---
