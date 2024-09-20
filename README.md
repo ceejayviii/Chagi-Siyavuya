@@ -1,11 +1,18 @@
 # README.md
 # Hi there, I'm Chagi Siyavuya [CeeJay]! 👋
 
-I'm a passionate software developer from South Africa, specializing in:
-- C#, ASP.NET Core, Blazor
-- JavaScript, Vue.js
-- HTML, CSS, Bootstrap
-- Microsoft Azure
+---
+
+👨‍💻 **Software Developer | Tech Enthusiast**  
+💻 Specializing in **C#**, **.NET Development**, **ASP.NET Core**, **Blazor**, and **JavaScript**  
+🚀 Passionate about building dynamic web apps
+🔧 Obsessed with clean code, design patterns, and efficient solutions  
+🌍 Lifelong learner, constantly exploring new technologies  
+🎮 Coding & gaming in my free time!
+
+#CodeLife 💡 | #WebDevelopment 🌐 | #CloudTech ☁️ | #BlazorMagic 🧙‍♂️ | #ReactNativeDev 📱 | #VueMastery 🔥 | #CSharpCode ✨
+
+---
 
 ### 📈 Stats:
 ![CeeJay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
@@ -16,17 +23,21 @@ I'm a passionate software developer from South Africa, specializing in:
 
 ### 🛠 Technologies
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+
 
 ---
 ### 📫 Reach Me:
 - Email: syavuya08@gmail.com / ceejayviii@outlook.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
-
-
 
 
 
