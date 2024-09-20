@@ -1,6 +1,5 @@
 # README.md
-# Hi there, I'm Chagi Siyavuya [CeeJay]! 👋
-
+# Hi there, I'm Chagi Siyavuya! 👋
 ---
 
 👨‍💻 **Software Developer | Tech Enthusiast**  
