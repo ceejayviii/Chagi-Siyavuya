@@ -41,7 +41,7 @@
 
 
 
-```js
+```java
 if (Programmer) {
   while (Alive) {
     WakeUp();
