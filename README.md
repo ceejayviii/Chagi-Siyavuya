@@ -41,11 +41,11 @@
 
 
 
-```cs
+```js
 if (Programmer) {
   while (Alive) {
+    WakeUp();
     DoCode();
-    Debug();
 
     if (Tired()) {
       DrinkCoffee();
@@ -53,18 +53,7 @@ if (Programmer) {
       TakeShortBreak();
     }
 
-    // A switch to decide what the programmer Googles today
-    switch (TodayFocus()) {
-      case "error":
-        GoogleSolutions();
-        break;
-      case "new technology":
-        ResearchNewTech();
-        break;
-      default:
-        StackOverflow();
-        break;
-    }
+    Sleep();
   }
 }
 ```
