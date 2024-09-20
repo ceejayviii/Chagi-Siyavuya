@@ -36,7 +36,10 @@
 ---
 ### 📫 Reach Me:
 - Email: syavuya08@gmail.com / ceejayviii@outlook.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Chagi Siyavuya](https://www.linkedin.com/in/ceejayviii)
+- TikTok: [<CeeJay/>|Chagi Siyavuya](https://www.tiktok.com/@ceejayviii)
+- Facebook: [CeeJay Chagi](https://www.facebook.com/profile.php?id=61556097299731)
+- Youtube: [<CeeJay/>](https://www.youtube.com/@ceejayviii)
 
 
 
